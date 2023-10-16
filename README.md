@@ -1,9 +1,9 @@
 # clustering-k-means
 
-Summer course CSAGRI 2023 IPB University
+### This code is for Summer course CSAGRI 2023 IPB University.
 
 
-Group 3: Clustering Melon Leaf Images Using K-Means Algorithm 			
+## Group 3: Clustering Melon Leaf Images Using K-Means Algorithm 			
 
 Students:
 1.	Silfani Sandra Miranda	Universitas Sriwijaya
