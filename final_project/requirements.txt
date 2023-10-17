@@ -3,4 +3,7 @@ pandas
 matplotlib
 plotly
 opencv-python
-skimage
+scikit-image
+scikit-learn
+umap-learn
+nbformat==4.2.0
